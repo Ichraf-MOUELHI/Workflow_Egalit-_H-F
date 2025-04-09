@@ -74,5 +74,5 @@ Voici une vue d’ensemble du workflow utilisé dans ce projet :
 ## 📎 Fichiers
 
 - `Workflow_Egalité_H/F.png` : Vue d’ensemble du workflow KNIME
-- `image.png` : Zoom sur les différentes sections du projet
+- `images.png` : Zoom sur les différentes sections du projet
 - `README.md` : Fichier de documentation du projet
