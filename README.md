@@ -65,9 +65,14 @@ Le projet comprend un **workflow global** sous forme de schéma KNIME (`Workflow
 - Proposition de pistes d’amélioration pour plus d’équité
 
 ---
+## 🔄 Aperçu du Workflow KNIME
+
+Voici une vue d’ensemble du workflow utilisé dans ce projet :
+
+![Aperçu du Workflow KNIME](Workflow_Egalité_H:F.png)
 
 ## 📎 Fichiers
 
-- `Workflow_Egalité_H:F.png` : Vue d’ensemble du workflow KNIME
+- `Workflow_Egalité_H/F.png` : Vue d’ensemble du workflow KNIME
 - `image.png` : Zoom sur les différentes sections du projet
 - `README.md` : Fichier de documentation du projet
